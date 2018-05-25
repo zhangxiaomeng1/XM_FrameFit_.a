@@ -1,0 +1,6 @@
+framework module Pods_XM_FrameFit__a_Example {
+  umbrella header "Pods-XM_FrameFit_.a_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

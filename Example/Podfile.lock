@@ -1,0 +1,16 @@
+PODS:
+  - XM_FrameFit_.a (0.1.0)
+
+DEPENDENCIES:
+  - XM_FrameFit_.a (from `../`)
+
+EXTERNAL SOURCES:
+  XM_FrameFit_.a:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XM_FrameFit_.a: 584598bda2080869e44458b5f1b79701f8e79133
+
+PODFILE CHECKSUM: d9a55cbff5b5fdaba108087310c34dff2fff1f98
+
+COCOAPODS: 1.5.0
